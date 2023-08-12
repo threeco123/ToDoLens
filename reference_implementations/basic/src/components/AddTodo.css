@@ -1,0 +1,11 @@
+.todo-input-container {
+  flex-grow: 1;
+}
+
+.todo-input-container > div {
+  margin-bottom: 0;
+}
+
+.todo-input-container input {
+  width: 90%;
+}
